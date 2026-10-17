@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates VLAN segmentation and inter-VLAN routing using a router-on-a-stick configuration in the PingMyNetwork network simulation sandbox.
+This project demonstrates VLAN segmentation and inter-VLAN routing using a router-on-a-stick configuration in the PingMyNetwork sandbox.
 
 The network separates two departments, HR and IT, into different VLANs and uses a router to enable communication between their IP subnets.
 
